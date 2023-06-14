@@ -1,0 +1,21 @@
+PORT=7860
+
+MODEL_RATE_LIMIT=10
+
+MAX_OUTPUT_TOKENS=410
+
+LOG_LEVEL=info
+
+REJECT_DISALLOWED=false
+
+REJECT_MESSAGE="insertwhatever here, its a rejection message."
+
+REJECT_SAMPLE_RATE=0.2
+
+CHECK_KEYS=false
+
+QUOTA_DISPLAY_MODE=full
+
+QUEUE_MODE=fair
+
+PROMPT_LOGGING=false
